@@ -7,4 +7,4 @@ $array = [
     }
 ];
 
-echo $array['myKey'](20,21,22,23);
+echo $array['myKey'](23);
